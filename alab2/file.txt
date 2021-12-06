@@ -1,0 +1,8 @@
+1 14.12.2003 Ivan income 100000
+2 14.12.2004 Boris outcome 1000000
+3 15.12.2003 Alex outcome 500000
+4 14.12.2005 Elena income 600000
+5 14.12.2001 Vladimir income 50000
+6 14.12.2005 Anastasia outcome 300000
+7 14.12.2005 Vasily income 100000
+8 14.12.2003 Natalia outcome 60000
